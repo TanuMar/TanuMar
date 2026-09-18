@@ -15,6 +15,13 @@
 * Android Studio
 * Parallel programming (MPI, OpenMP) and in GPU (CUDA)
 
+## 📚 Education
+* **Degree in Computer Engineering**, Universidad Politécnica de Madrid (UPM) – Madrid, Spain (2021–2026)  
+  - GPA: 8.62 / 10
+  - 31.8% of subjects with Honor Distinctions
+  - Final Project: **"Design, Implementation, and Validation of the Flight Software for the UPMSat-3 Nanosatellite"** (Grade: 9.9/10, Honor Distinction) 
+* **Master's Degree in Distributed and Embedded Systems Software**, Universidad Politécnica de Madrid (UPM) – Madrid, Spain (2026–Present)  
+
 ## 📌 Projects
 These are some of the projects I have worked on, either as academic work, or on my own! Code and details to some of these projects are private and can't be shared, please contact me if you wish to have more information related to some of these projects!
 | Project                                                                         | Description                                                                                                    | Tech used                                                                                                                                                                            |
